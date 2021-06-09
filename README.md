@@ -1,7 +1,7 @@
 # # Module 5 Project: Taskmaster Pro
 
 ## Description
-As an introduction to third-party APIs and the process of working with legacy code, we updated a task-management application called Taskmaster. The Taskmaster Pro Edition features an updated layout, the ability to edit tasks, drag-and-drop capabilty, due date handling with an interactive calendar datepicker, and improved UI.
+As an introduction to third-party APIs and the process of working with legacy code, we updated a task-management application called Taskmaster. This Taskmaster Pro Edition features an updated layout, the ability to edit tasks, drag-and-drop capabilty, due date handling with an interactive calendar datepicker, and improved UI.
 
 ## Overview of Concepts Learned
 * How to speed up development using third party APIs
